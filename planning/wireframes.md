@@ -47,4 +47,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 8: Workview, Create Groups
 
-![img](image/wireframes/workview_create_group.png "workview3")
+![img](image/wireframes/workview_create_group.png "workview4")
